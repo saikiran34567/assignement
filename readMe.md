@@ -5,9 +5,13 @@ Calculate the minimum, maximum and median beats per minute and the latest data t
 ====Approach
 
 1.Read the input JSON file 
+
 2.Filter json data based on a specific day
+
 3.get all the beatsperMinute values & push into an array
+
 4.Define Logic for values - Minimum,Maximum, latestDataTimestamp, Median, date
+
 5.Json Formatted key & Value in a spcific node
 6.Iterate above for every start time
 7.Write output in JSON file
